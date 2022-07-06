@@ -1,2 +1,2 @@
 # apk-android
-nothing to see here. just an apk to be download
+nothing to see here. just an apk to be downloaded
